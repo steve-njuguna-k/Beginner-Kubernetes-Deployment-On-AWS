@@ -11,6 +11,7 @@ COPY . app.py /app/
 ## Step 3:
 # Install packages from requirements.txt
 # hadolint ignore=DL3013
+RUN make install-all
 
 ## Step 4:
 # Expose port 80
