@@ -9,7 +9,9 @@ dockerpath="stevekamau/udacityproj:v1.0"
 
 # Step 2
 # Run the Docker Hub container with kubernetes
-
+kubectl run udacityproj \
+	--image=stevekamau/udacityproj:v1.0 \
+	--port=80 --labels app=udacityproj
 
 # Step 3:
 # List kubernetes pods
