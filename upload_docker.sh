@@ -10,6 +10,8 @@ dockerpath="stevekamau/udacityproj:v1.0"
 
 # Step 2:  
 # Authenticate & tag
+docker login
+docker tag udacityproj $dockerpath
 echo "Docker ID and Image: $dockerpath"
 
 # Step 3:
