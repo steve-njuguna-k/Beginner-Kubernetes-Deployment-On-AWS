@@ -1,4 +1,4 @@
-[![steve-njuguna-k](https://circleci.com/gh/steve-njuguna-k/Udacity-Cloud-Devops-Engineer-Project-4.svg?style=svg)](https://circleci.com/gh/steve-njuguna-k/Udacity-Cloud-Devops-Engineer-Project-4)
+[![CircleCI](https://circleci.com/gh/steve-njuguna-k/Udacity-Cloud-Devops-Engineer-Project-4.svg?style=svg)](https://circleci.com/gh/steve-njuguna-k/Udacity-Cloud-Devops-Engineer-Project-4)
 
 ## Project Overview
 
